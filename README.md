@@ -3,15 +3,15 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-Software Engneering can be defined as the systematic application of engineering approach applied in building high quality software products. it can also be defined as the process of designing, creating, testing and maintaining software applications by using systematic methods and practices.
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software Engneering can be defined as the systematic application of engineering approach applied in building high quality software products. it can also be defined as the process of designing, creating, testing and maintaining software applications by using systematic methods and practices.
 The importance of software engineering in today's world of technology can be seen in the creation of various software applications like banking apps, social media apps etc. Software engineering is important in the tech industry because it helps create reliable, efficient, and secure software. It makes sure that software works well, is easy to update, and can handle growing demands. It also helps developers avoid costly mistakes and keeps the software safe from cyberattacks. Plus, it ensures that software is user-friendly, meeting people's needs and improving their experience. Overall, it's key to building the tech we rely on every day.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1. The Birth of Structured Programming (1960s): In the early days, coding was often done in a chaotic and unstructured way, which made it hard to manage large projects. Then came the idea of structured programming, where developers started to use a more organized approach—breaking code into smaller, manageable parts (functions or modules). This made it easier to read, understand, and maintain the code.
-2. The Rise of Object-Oriented Programming (1980s): As software became more complex, object-oriented programming (OOP) was introduced. This approach allowed programmers to create objects that represented real-world entities, making the code more flexible and reusable. It helped solve problems in a more logical way, and OOP is still widely used today in modern software development.
-3. Agile Methodology (2000s): Before Agile, software projects often followed a rigid, step-by-step process, which could lead to delays and inflexible results. Agile flipped this by focusing on delivering smaller pieces of the project in short, regular cycles. This allowed for faster feedback, easier adjustments, and ultimately, more successful and user-friendly software. Today, many software teams work in this more flexible and adaptive way.
+The key milestones in the evolution of software engineering starts with the development of the first  programming language called Fortran in 1957 by John Backus, it was designed to do complex statistical, Mathematics and Scientific work. in 1958, ALGOS WAS created by some group of scienctists, this later led to the developed of Java, C, and Pascal programming language.
+In the 1960s, the word "Software Engineering" was birthed. Then, we have the adventure of structured programming languages in 1970s to 1980s when there was widespread of personal computer. In 1977, Apple released its revolutionary product "Apple 11" to the public. Other significant software applications like Microsoft Excel and Microsoft Word were estalished in the mid-1980s.
+The rise of Agile methodology in 2001.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirement (Planning and Analysis): This is where the team figures out what the software needs to do, sets goals, and plans how long it will take.  looks closely at what users want the software to do and writes down all the details.
